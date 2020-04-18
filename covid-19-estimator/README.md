@@ -1,0 +1,1 @@
+This is a simulator that estimates the impact of the COVID-19 virus based on current statistics and scientific assumptions.
